@@ -5,5 +5,4 @@
 This code is part of [StringSessionGenerator](https://github.com/MaybePiyush/StringSessionGenerator) by [ᴍᴀʏʙᴇ ᴘɪʏᴜꜱʜ
 ](https://github.com/MaybePiyush).
 
-Copyright © [ᴍᴀʏʙᴇ ᴘɪʏᴜꜱʜ
-](https://github.com/MaybePiyush),  All rights reserved.
+Copyright © [ᴍᴀʏʙᴇ ᴘɪʏᴜꜱʜ](https://github.com/MaybePiyush),  All rights reserved.
